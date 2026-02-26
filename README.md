@@ -4,7 +4,7 @@ En este repositorio se presentann los diagramas UML correspondientes a la práct
 
 ## 1. Diagrama de Casos de Uso
 Representa las funcionalidades del sistema y cómo interactúan los actores con él.
-![Casos de Uso](./Diagramacasosdeuso.jpg")
+![Casos de Uso](./Diagramacasosdeuso.jpg)
 
 ## 2. Modelo Conceptual (Diagrama de Clases)
 Muestra las entidades principales del dominio y sus relaciones.
