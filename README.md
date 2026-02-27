@@ -12,9 +12,9 @@ Muestra las entidades principales del dominio y sus relaciones.
 
 ## 3. Diagrama de Secuencia
 Describe la interacción entre objetos en un orden temporal específico.
-![Secuencia](./SequenceDiagram.jpg)
+![Secuencia](./SequenceDiagram1.jpg)
 )
 
 ## 4. Diagrama de Comunicación
 Se centra en la organización estructural de los objetos que intercambian mensajes.
-![Comunicación](./CommunicationDiagram.jpg)
+![Comunicación](./CommunicationDiagram1.jpg)
